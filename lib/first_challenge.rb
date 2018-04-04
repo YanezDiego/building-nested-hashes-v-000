@@ -43,14 +43,14 @@ def first_challenge
        },
        heroine_friends:[
          {
-           name: 'Steven'
-           age: "30"
-           attitude: 'Confused'
+           name:"Steven"
+           age:"30"
+           attitude:"Confused"
          },
          {
-           name: "Nurse"
-           age: "44"
-           attitude: "Worried"
+           name:"Nurse"
+           age:"44"
+           attitude:"Worried"
          }
        ]
      }
