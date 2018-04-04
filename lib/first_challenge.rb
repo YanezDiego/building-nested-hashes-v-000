@@ -14,18 +14,18 @@ def first_challenge
          age: "15"
          status: 'Alive'
        },
-       hero_friends:{
-         friend1:{
+       hero_friends:[
+          {
            name: 'Benvolio'
            age: "17"
            attitude: "worried"
          },
-         friend2:{
+         {
            name: 'Mercutio'
            age: "18"
            attitude: "hot-headed"
          }
-       }
+       ]
      },
      capulets:{
        patriarch:{
@@ -41,18 +41,18 @@ def first_challenge
          age: "15"
          status: "Alive"
        },
-       heroine_friends{
-         friend1:{
+       heroine_friends:[
+         {
            name: 'Steven'
            age: "30"
            attitude: 'Confused'
          },
-         friend2:{
+         {
            name: "Nurse"
            age: "44"
            attitude: "Worried"
          }
-       }
+       ]
      }
 
    }
