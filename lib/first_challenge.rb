@@ -37,9 +37,9 @@ def first_challenge
          age: "51"
        },
        heroine:{
-         name: "Juliet"
-         age: "15"
-         status: "Alive"
+         name:"Juliet"
+         age:"15"
+         status:"Alive"
        },
        heroine_friends:[
          {
