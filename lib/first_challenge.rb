@@ -1,6 +1,12 @@
 def first_challenge
    epic_tragedy = {
-     montagues: {},
+     montagues:{}
+       hero_friends:[
+          {
+           name: "Benvolio",
+           age: "17",
+           attitude: "worried"
+         },
          {
            name: "Mercutio",
            age: "18",
@@ -8,7 +14,20 @@ def first_challenge
          }
        ]
      },
-     capulets:{},
+     capulets:{
+       patriarch:{
+         name: "Lord Capulet",
+         age: "50"
+       },
+       matriarch:{
+         name: "Lady Capulet",
+         age: "51"
+       },
+       heroine:{
+         name: "Juliet",
+         age: "15",
+         status: "Alive"
+       },
        heroine_friends:[
          {
            name: "Steven",
