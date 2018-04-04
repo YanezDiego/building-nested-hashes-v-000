@@ -48,9 +48,9 @@ def first_challenge
            attitude:"Confused"
          },
          {
-           name:"Nurse"
-           age:"44"
-           attitude:"Worried"
+           name: "Nurse",
+           age: "44",
+           attitude: "Worried"
          }
        ]
      }
