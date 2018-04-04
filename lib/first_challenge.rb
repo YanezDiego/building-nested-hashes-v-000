@@ -2,17 +2,17 @@ def first_challenge
    epic_tragedy = {
      montagues: {
        patriarch: {
-         name: 'Lord Montague'
+         name: "Lord Montague",
          age: "53"
        },
        matriarch: {
-         name: 'Lady Montague'
+         name: "Lady Montague",
          age: "54"
        },
        hero: {
-         name: 'Romeo'
-         age: "15"
-         status: 'Alive'
+         name: "Romeo",
+         age: "15",
+         status: "Alive"
        },
        hero_friends:[
           {
