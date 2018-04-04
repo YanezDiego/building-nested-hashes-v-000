@@ -33,13 +33,13 @@ def first_challenge
          age: "50"
        },
        matriarch:{
-         name: "Lady Capulet"
+         name: "Lady Capulet",
          age: "51"
        },
        heroine:{
-         name:"Juliet"
-         age:"15"
-         status:"Alive"
+         name: "Juliet",
+         age: "15",
+         status: "Alive"
        },
        heroine_friends:[
          {
